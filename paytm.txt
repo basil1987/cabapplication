@@ -1,2 +1,4 @@
 This is a new class for payment method addition
 
+Class is populated with some attributes
+
